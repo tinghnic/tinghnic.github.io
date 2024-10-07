@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tinghnic.github.io/sitemap.html.gz
+Sitemap: https://tinghnic.github.io/app/sitemap.html.gz
+Sitemap: https://tinghnic.github.io/assets/sitemap.html.gz
+Sitemap: https://tinghnic.github.io/css/sitemap.html.gz
+Sitemap: https://tinghnic.github.io/data/sitemap.html.gz
+Sitemap: https://tinghnic.github.io/includes/sitemap.html.gz
+Sitemap: https://tinghnic.github.io/item/sitemap.html.gz
+Sitemap: https://tinghnic.github.io/src/sitemap.html.gz
